@@ -19,3 +19,4 @@ Aqui encontram-se todas as instruções necessárias para a instalação de todo
 
 3. Clique sobre o nome do notebook e depois em “Open in Colab”. Caso a opção não apareça, instale o Google Colab no seu ecossistema Goggle através do [link](https://workspace.google.com/marketplace/app/colaboratory/1014160490159?flow_type=2) e, após isso, realize o processo descrito previamente nesse tópico.
 
+4. Rode as células individuas do código pelo próprio navegador ou, no canto superior esquerdo da tela, acesse as abas "Ambiente de execução" > "Executar tudo" ou através do comando ``CTRL + F9``
